@@ -29,7 +29,7 @@ Started working as a front-end developer during my first internship in 2015 and 
 
 ## Communication and multimedia design
 
-I graduated from Communication and multimedia design where I followed a more broad curriculum where handled subjects like:
+I graduated in Communication and multimedia design where I followed a more broad curriculum that handled subjects like:
 
 - User experience
 - Visual design
