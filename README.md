@@ -1,6 +1,6 @@
 # Greetings, my name is Damian Veltkamp
 
-## Mostly working with:
+## I am mostly working with:
 
 - Typescript
 - React
