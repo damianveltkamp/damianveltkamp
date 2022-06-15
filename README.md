@@ -4,7 +4,13 @@ I spend my spare time enjoying the company of my friends and walking dogs. Also 
 
 Started working as a front-end developer during my first internship in 2015 and never turned back.
 
-## I am mostly working with:
+## Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
+
+- Creating design systems.
+- Improving on our clients websites and webapps.
+- Maintaining our clients websites and webapps.
+
+## Where I mostly working with:
 
 - Typescript
 - React
@@ -21,11 +27,6 @@ Started working as a front-end developer during my first internship in 2015 and 
 - Zsh scripting
 - Automation
 
-## Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
-
-- Creating design systems.
-- Improving on our clients websites and webapps.
-- Maintaining our clients websites and webapps.
 
 ## Graduated from
 
