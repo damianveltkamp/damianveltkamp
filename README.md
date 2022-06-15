@@ -7,7 +7,7 @@ Started working as a front-end developer during my first internship in 2015 and 
 ## Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
 
 - Creating design systems.
-- Improving on our clients websites, webapps and development strucutre.
+- Improving on our clients websites, webapps and development structure.
 - Maintaining our clients websites and webapps.
 
 ## Where I mostly working with:
