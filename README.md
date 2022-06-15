@@ -1,5 +1,7 @@
 # Greetings, my name is Damian Veltkamp
 
+I spend my spare time enjoying the company of my friends and walking dogs. Also been a avid gym member since my 15th birthday.
+
 ## I am mostly working with:
 
 - Typescript
