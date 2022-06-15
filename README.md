@@ -2,6 +2,8 @@
 
 I spend my spare time enjoying the company of my friends and walking dogs. Also been a avid gym member since my 15th birthday.
 
+Started working as a front-end developer during my first internship in 2015 and never turned back.
+
 ## I am mostly working with:
 
 - Typescript
