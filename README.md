@@ -1,16 +1,16 @@
 # Greetings, my name is Damian Veltkamp
 
-I spend my spare time enjoying the company of my friends and walking dogs. Also been a avid gym member since my 15th birthday.
+I spend my spare time enjoying the company of my friends and walking dogs. Also been an avid gym member since my 15th birthday.
 
 Started working as a front-end developer during my first internship in 2015 and never turned back.
 
 ## Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
 
 - Creating design systems.
-- Improving on our clients websites, webapps and development structure.
-- Maintaining our clients websites and webapps.
+- Improving our client's websites, web apps, and development structure.
+- Maintaining our client's websites and web apps.
 
-## Where I mostly working with:
+## Where I mostly work with:
 
 - Typescript
 - React
