@@ -26,3 +26,8 @@ Started working as a front-end developer during my first internship in 2015 and 
 - Creating design systems.
 - Improving on our clients websites and webapps.
 - Maintaining our clients websites and webapps.
+
+## Graduated from
+
+- Bachelor's degree [Communication and multimedia design at the HVA](https://www.hva.nl/)
+- [Application developer at ROC](https://www.regiocollege.nl/)
