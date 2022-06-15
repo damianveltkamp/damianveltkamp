@@ -27,8 +27,16 @@ Started working as a front-end developer during my first internship in 2015 and 
 - Zsh scripting
 - Automation
 
+## Communication and multimedia design
 
-## Graduated from
+I graduated from Communication and multimedia design where I followed a more broad curriculum where handled subjects like:
+
+- User experience
+- Visual design
+- Front-end development
+- Back-end development
+
+## Degree's
 
 - Bachelor's degree [Communication and multimedia design at the HVA](https://www.hva.nl/)
-- [Application developer at ROC](https://www.regiocollege.nl/)
+- VMBO lvl4 [Application developer at ROC](https://www.regiocollege.nl/)
