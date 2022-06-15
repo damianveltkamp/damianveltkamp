@@ -1,16 +1,24 @@
-### Hi there 👋
+### Greetings, my name is Damian Veltkamp
 
-<!--
-**damianveltkamp/damianveltkamp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mostly working with:
 
-Here are some ideas to get you started:
+- Typescript
+- React
+- NextJs
+- Storybook
+- Jest
+- Html
+- Scss
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I like tinkering with my development [setup](https://github.com/damianveltkamp/dotfiles):
+
+- [Neovim](https://neovim.io/)
+- [Tmux](https://github.com/tmux/tmux/wiki)
+- Zsh scripting
+- Automation
+
+Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
+
+- Creating design systems.
+- Improving on our clients websites and webapps.
+- Maintaining our clients websites and webapps.
