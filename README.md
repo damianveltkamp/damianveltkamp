@@ -10,7 +10,7 @@ Started working as a front-end developer during my first internship in 2015 and 
 - Improving our client's websites, web apps, and development structure.
 - Maintaining our client's websites and web apps.
 
-## Where I mostly work with:
+## What I mostly work with:
 
 - Typescript
 - React
