@@ -1,8 +1,6 @@
 # Greetings, my name is Damian Veltkamp
 
-I spend my spare time enjoying the company of my friends and walking dogs. Also been an avid gym member since my 15th birthday.
-
-Started working as a front-end developer during my first internship in 2015 and never turned back.
+I have around seven years of experience with building front-end projects, in which I have been working as a professional for about two years for multiple clients. In these seven years, I have done two half-year Internships for two different companies where I worked full-time as a front-end developer in a multi-disciplinary team. Now I am working as a full-time remote front-end developer.
 
 ## Currently working at [DEPT®](https://www.deptagency.com/nl-nl/) as a front-end developer:
 
